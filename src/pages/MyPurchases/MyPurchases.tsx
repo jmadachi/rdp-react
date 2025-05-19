@@ -91,20 +91,22 @@ export default function MyPurchases() {
                                     })}
                                 </td>
                                 <td className={styles.mypurchases__actions}>
-                                    <button
-                                        className={styles.mypurchases__actionButton}
-                                        onClick={() => removePurchase(item.book.id)}
-                                        title="Quitar uno"
-                                    >
-                                        ➖
-                                    </button>
-                                    <button
-                                        className={styles.mypurchases__actionButton}
-                                        onClick={() => addPurchase(item.book)}
-                                        title="Agregar uno"
-                                    >
-                                        ➕
-                                    </button>
+                                    <div className={styles.mypurchases__actionsWrapper}>
+                                        <button
+                                            className={styles.mypurchases__actionButton}
+                                            onClick={() => removePurchase(item.book.id)}
+                                            title="Quitar uno"
+                                        >
+                                            ➖
+                                        </button>
+                                        <button
+                                            className={styles.mypurchases__actionButton}
+                                            onClick={() => addPurchase(item.book)}
+                                            title="Agregar uno"
+                                        >
+                                            ➕
+                                        </button>
+                                    </div>
                                 </td>
                             </tr>
                         ))}

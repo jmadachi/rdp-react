@@ -4,377 +4,593 @@
     "title": "Carrie",
     "author": "Stephen King",
     "cover": "Carrie_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9588820871",
+    "genre": "Suspenso, Ficción",
+    "publisher": "Debolsillo",
+    "synopsis": "Carrie, una joven de apariencia insignificante, acosada por sus compañeras de instituto, vive con su madre, una fanática religiosa. Un día en las duchas, la primera menstruación de Carrie provoca las burlas de las demás chicas y desencadena una sucesión de hechos sobrenaturales y terroríficos. Con el instituto como epicentro de la trama, la pequeña ciudad de Chamberlain, Maine, verá cambiar el curso de su historia en manos de la aterradora adolescente."
   },
   {
     "id": 2,
     "title": "Infección",
     "author": "Robin Cook",
     "cover": "Infeccion_RobinCook.png",
-    "price": 48000
+    "price": 48000,
+    "isbn": "9788466334884",
+    "genre": "Suspenso",
+    "publisher": "Debolsillo",
+    "synopsis": "El desarrollo de una aplicación para el teléfono móvil capaz de diagnosticar y tratar cualquier dolencia que padezca el usuario podría significar un enorme adelanto en la prevención y tratamiento de enfermedades, pero también podría prestarse a muchos busos.George Wilson, residente de tercer año de radiología, despierta una mañana junto al cadáver de Kasey, su prometida. No tardará en averiguar que la joven, diabética desde niña, había participado en una serie de pruebas de una novísima aplicación que está a punto de salir al mercado. Bautizada como iDoc y destinada a revolucionar la medicina del futuro, dicha tecnología aportará al móvil la capacidad de diagnosticar y tratar cualquier enfermedad. Es decir, optimizar resultados con menor coste y, por tanto, prescindir de los médicos.Al fallecimiento de Kasey se sucede el de otros pacientes sometidos a la misma batería de pruebas. Ante este descubrimiento, George decide violar la normativa del hospital y acceder a los últimos estudios que le habían realizado a su novia.Finalmente descubre que Kasey padecía cáncer de ovarios en fase avanzada y llega entonces a una conclusión aterradora: alguien está manipulando los datos que maneja el iDoc y las consecuencias puedes ser terribles para millones de usuarios.Averiguar la verdad que se esconde tras esta novedosa aplicación podría poner en peligro su vida personal y profesional."
   },
   {
     "id": 3,
     "title": "Los Adversarios",
     "author": "John Grisham",
     "cover": "LosAdversarios_JohnGrisham.png",
-    "price": 69000
+    "price": 48300,
+    "isbn": "9789585457782",
+    "genre": "Drama Legal",
+    "publisher": "Plaza & Janes",
+    "synopsis": "Tres emocionantes historias del maestro Grisham con el mundo de la ley como hilo conductor.«Vuelta a casa» nos lleva de regreso a Ford County, escenario de muchas de las inolvidables historias de John Grisham. Esta vez Jake Brigance no está en el tribunal; quien acude a él es un viejo amigo, Mack Stafford, un exabogado de Clanton. Tres años antes, Mack se convirtió en una leyenda local cuando robó el dinero de sus clientes, se divorció de su mujer, se declaró en bancarrota y abandonó a su familia en mitad de la noche sin que nunca más se volviera a oír hablar de él... hasta ahora. Mack ha vuelto y confía en sus viejos colegas para que le ayuden. Pero su regreso no resulta como lo había planeado.En «Luna de fresa», Cody Wallace, un joven preso, se encuentra en el corredor de la muerte a solo tres horas de su ejecución. Sus abogados no pueden salvarle, el tribunal le ha cerrado sus puertas y el gobernador se ha negado a una última petición de clemencia. Mientras el reloj avanza, Cody tiene una última petición.Los adversarios está protagonizado por los hermanos Malloy, Kirk y Rusty, dos ambiciosos y exitosos abogados que heredaron un próspero bufete cuando el fundador, su padre, fue enviado a prisión por el asesinato de su mujer. Kirk y Rusty se aborrecen y solo se hablan cuando es estrictamente necesario, y el bufete se encuentra en plena decadencia y a punto de desintegrarse. Y ahora que su padre podría salir de la cárcel antes de lo esperado..., el enfrentamiento entre los Malloy parece inevitable."
   },
   {
     "id": 4,
     "title": "Clave Red Rabbit",
     "author": "Tom Clancy",
     "cover": "ClaveRedRabbit_TomClancy.png",
-    "price": 69000
+    "price": 80336,
+    "isbn": "9788408065067",
+    "genre": "Acción, Suspenso, Drama",
+    "publisher": "Booket",
+    "synopsis": "Años 80. El joven Jack Ryan empieza a colaborar con la CIA e intercepta una carta en la que Andropov, jefe del KGB, dice querer matar a Juan Pablo II, enemigo del Partido Comunista polaco. Un proyecto que puede poner en peligro no sólo a líderes de todo el mundo sino a naciones enteras."
   },
   {
     "id": 5,
     "title": "El código Da Vinci",
     "author": "Dan Brown",
     "cover": "ElCodigoDaVinci_DanBrown.png",
-    "price": 69000
+    "price": 69000,
+    "isbn": "9788408273790",
+    "genre": "Suspenso",
+    "publisher": "Booket",
+    "synopsis": "La mayor conspiración de los últimos 2000 años está a punto de ser desvelada."
   },
   {
     "id": 6,
     "title": "Drácula",
     "author": "Bran Stoker",
     "cover": "Dracula_BranStoker.png",
-    "price": 65000
+    "price": 145000,
+    "isbn": "9788494980657",
+    "genre": "Suspenso, drama, acción",
+    "publisher": "Del Nuevo Extremo",
+    "synopsis": "Drácula, publicada en 1897 ha llegado al cine, el teatro y la televisión convirtiendo a su protagonista en el vampiro más famoso de todos los tiempos cuya imagen pertenece al imaginario colectivo. La novela, escrita de forma epistolar a modo de diarios y con pequeños saltos en el tiempo narra la desmesurada ambición de poder de Drácula, un hombre solitario, cultivado, aristocrático y terriblemente terrorífico que vive aislado en un castillo decadente y que se traslada a Londres para conseguir sus fines."
   },
   {
     "id": 7,
     "title": "El visitante",
     "author": "Stephen King",
     "cover": "ElVisitante_StephenKing.png",
-    "price": 65000
+    "price": 62000,
+    "isbn": "9786287513471",
+    "genre": "Suspenso, Ficción, Investigación",
+    "publisher": "Debolsillo",
+    "synopsis": "El visitante de Stephen King cuenta la historia de un niño de 11 años asesinado brutalmente en Flint City, donde todas las pruebas apuntan a Terry Maitland, un ciudadano querido y respetado por todos. Maitland, entrenador de béisbol, profesor de literatura, marido ejemplar y padre de dos hijas, es detenido por el detective Ralph Anderson. La investigación, que incluye pruebas de ADN y huellas dactilares, parece demostrar la culpabilidad de Maitland, pero la comunidad se cuestiona su inocencia. A medida que el caso se profundiza, se descubre una serie de misterios y elementos sobrenaturales que complican la investigación y ponen en duda la realidad misma."
   },
   {
     "id": 8,
     "title": "Todo es eventual",
     "author": "Stephen King",
     "cover": "TodoEsEventual_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9789839920597",
+    "genre": "Misterio",
+    "publisher": "HarperCollins",
+    "synopsis": "Todo es eventual es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 9,
     "title": "Maleficio",
     "author": "Stephen King",
     "cover": "Maleficio_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9781895701712",
+    "genre": "Drama Legal",
+    "publisher": "Vintage Español",
+    "synopsis": "Maleficio es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 10,
     "title": "Cementerio de animales",
     "author": "Stephen King",
     "cover": "CementerioDeAnimales_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9788395923216",
+    "genre": "Drama Legal",
+    "publisher": "Debolsillo",
+    "synopsis": "Cementerio de animales es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 11,
     "title": "Holly",
     "author": "Stephen King",
     "cover": "Holly_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9786264595984",
+    "genre": "Ciencia Ficción",
+    "publisher": "Vintage Español",
+    "synopsis": "Holly es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 12,
     "title": "El misterio de Salem's Lot",
     "author": "Stephen King",
     "cover": "ElMisterioDeSalemsLot_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9783058298181",
+    "genre": "Thriller Médico",
+    "publisher": "Vintage Español",
+    "synopsis": "El misterio de Salem's Lot es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 13,
     "title": "La sangre manda",
     "author": "Stephen King",
     "cover": "LaSangreManda_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9781463857899",
+    "genre": "Acción",
+    "publisher": "HarperCollins",
+    "synopsis": "La sangre manda es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 14,
     "title": "La niebla",
     "author": "Stephen King",
     "cover": "LaNiebla_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9787298684438",
+    "genre": "Ciencia Ficción",
+    "publisher": "Debolsillo",
+    "synopsis": "La niebla es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 15,
     "title": "Apocalipsis",
     "author": "Stephen King",
     "cover": "Apocalipsis_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9787838818578",
+    "genre": "Suspenso",
+    "publisher": "Debolsillo",
+    "synopsis": "Apocalipsis es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 16,
     "title": "Posesión",
     "author": "Stephen King",
     "cover": "Posesion_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9787671663177",
+    "genre": "Ficción",
+    "publisher": "Debolsillo",
+    "synopsis": "Posesión es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 17,
     "title": "El resplandor",
     "author": "Stephen King",
     "cover": "ElResplandor_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9783607257835",
+    "genre": "Drama Legal",
+    "publisher": "Debolsillo",
+    "synopsis": "El resplandor es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 18,
     "title": "Eso",
     "author": "Stephen King",
     "cover": "Eso_StephenKing.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9780459708841",
+    "genre": "Ficción",
+    "publisher": "Debolsillo",
+    "synopsis": "Eso es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 19,
     "title": "Cromosoma 6",
     "author": "Robin Cook",
     "cover": "Cromosoma6_RobinCook.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9786763027027",
+    "genre": "Acción",
+    "publisher": "HarperCollins",
+    "synopsis": "Cromosoma 6 es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 20,
     "title": "Maneras de Morir",
     "author": "Robin Cook",
     "cover": "ManerasDeMorir_RobinCook.png",
-    "price": 110000
+    "price": 110000,
+    "isbn": "9783961843915",
+    "genre": "Drama Legal",
+    "publisher": "Penguin Random House",
+    "synopsis": "Maneras de Morir es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 21,
     "title": "Anestesia Letal",
     "author": "Robin Cook",
     "cover": "AnestesiaLetal_RobinCook.png",
-    "price": 48000
+    "price": 48000,
+    "isbn": "9785293808297",
+    "genre": "Ciencia Ficción",
+    "publisher": "HarperCollins",
+    "synopsis": "Anestesia Letal es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 22,
     "title": "Pandemia",
     "author": "Robin Cook",
     "cover": "Pandemia_RobinCook.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9785717814807",
+    "genre": "Acción",
+    "publisher": "Vintage Español",
+    "synopsis": "Pandemia es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 23,
     "title": "VirusMortal",
     "author": "Robin Cook",
     "cover": "VirusMortal_RobinCook.png",
-    "price": 110000
+    "price": 110000,
+    "isbn": "9788398853255",
+    "genre": "Suspenso",
+    "publisher": "Debolsillo",
+    "synopsis": "VirusMortal es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 24,
     "title": "Crisis",
     "author": "Robin Cook",
     "cover": "Crisis_RobinCook.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9783963855773",
+    "genre": "Suspenso",
+    "publisher": "Plaza & Janés",
+    "synopsis": "Crisis es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 25,
     "title": "ADN",
     "author": "Robin Cook",
     "cover": "ADN_RobinCook.png",
-    "price": 55000
+    "price": 55000,
+    "isbn": "9783079265424",
+    "genre": "Ciencia Ficción",
+    "publisher": "Plaza & Janés",
+    "synopsis": "ADN es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 26,
     "title": "Impostores",
     "author": "Robin Cook",
     "cover": "Impostores_RobinCook.png",
-    "price": 120000
+    "price": 120000,
+    "isbn": "9788125991818",
+    "genre": "Drama Legal",
+    "publisher": "Debolsillo",
+    "synopsis": "Impostores es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 27,
     "title": "Polonio 210",
     "author": "Robin Cook",
     "cover": "Polonio210_RobinCook.png",
-    "price": 120000
+    "price": 120000,
+    "isbn": "9784262403694",
+    "genre": "Drama Legal",
+    "publisher": "Vintage Español",
+    "synopsis": "Polonio 210 es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 28,
     "title": "La cura",
     "author": "Robin Cook",
     "cover": "LaCura_RobinCook.png",
-    "price": 650000
+    "price": 650000,
+    "isbn": "9789359823936",
+    "genre": "Misterio",
+    "publisher": "Vintage Español",
+    "synopsis": "La cura es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 29,
     "title": "Intervención",
     "author": "Robin Cook",
     "cover": "Intervencion_RobinCook.png",
-    "price": 650000
+    "price": 650000,
+    "isbn": "9781308395450",
+    "genre": "Thriller Médico",
+    "publisher": "HarperCollins",
+    "synopsis": "Intervención es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 30,
     "title": "Vector",
     "author": "Robin Cook",
     "cover": "Vector_RobinCook.png",
-    "price": 650000
+    "price": 650000,
+    "isbn": "9780654405510",
+    "genre": "Thriller Médico",
+    "publisher": "Vintage Español",
+    "synopsis": "Vector es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 31,
     "title": "Cuerpo extraño",
     "author": "Robin Cook",
     "cover": "CuerpoExtranio_RobinCook.png",
-    "price": 650000
+    "price": 650000,
+    "isbn": 9786249025566,
+    "genre": "Drama Legal",
+    "publisher": "Penguin Random House",
+    "synopsis": "Cuerpo extraño es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 32,
     "title": "Contagio",
     "author": "Robin Cook",
     "cover": "Contagio_RobinCook.png",
-    "price": 550000
+    "price": 550000,
+    "isbn": "9780121102682",
+    "genre": "Drama Legal",
+    "publisher": "Penguin Random House",
+    "synopsis": "Contagio es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 33,
     "title": "Cerebro",
     "author": "Robin Cook",
     "cover": "Cerebro_RobinCook.png",
-    "price": 120000
+    "price": 120000,
+    "isbn": "9782002408905",
+    "genre": "Thriller Médico",
+    "publisher": "HarperCollins",
+    "synopsis": "Cerebro es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 34,
     "title": "Los guardianes",
     "author": "John Grisham",
     "cover": "LosGuardianes_JohnGrisham.png",
-    "price": 77000
+    "price": 77000,
+    "isbn": "9783035593664",
+    "genre": "Misterio",
+    "publisher": "Vintage Español",
+    "synopsis": "Los guardianes es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 35,
     "title": "El sueño de Sooley",
     "author": "John Grisham",
     "cover": "ElSuenioDeSooley_JohnGrisham.png",
-    "price": 82000
+    "price": 82000,
+    "isbn": "9780501246330",
+    "genre": "Ficción",
+    "publisher": "Penguin Random House",
+    "synopsis": "El sueño de Sooley es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 36,
     "title": "Los chicos de Biloxi",
     "author": "John Grisham",
     "cover": "LosChicosDeBiloxi_JohnGrisham.png",
-    "price": 79000
+    "price": 79000,
+    "isbn": "9785342041125",
+    "genre": "Thriller Médico",
+    "publisher": "Vintage Español",
+    "synopsis": "Los chicos de Biloxi es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 37,
     "title": "Tiempo de perdón",
     "author": "John Grisham",
     "cover": "TiempoDePerdon_JohnGrisham.png",
-    "price": 89000
+    "price": 89000,
+    "isbn": 9781552070428,
+    "genre": "Suspenso",
+    "publisher": "Plaza & Janés",
+    "synopsis": "Tiempo de perdón es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 38,
     "title": "El manuscrito",
     "author": "John Grisham",
     "cover": "ElManuscrito_JohnGrisham.png",
-    "price": 72000
+    "price": 72000,
+    "isbn": "9783403652660",
+    "genre": "Ficción",
+    "publisher": "Debolsillo",
+    "synopsis": "El manuscrito es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 39,
     "title": "El caso Fitzgerald",
     "author": "John Grisham",
     "cover": "ElCasoFitzgerald_JohnGrisham.png",
-    "price": 69000
+    "price": 69000,
+    "isbn": "9785090123450",
+    "genre": "Suspenso",
+    "publisher": "Debolsillo",
+    "synopsis": "El caso Fitzgerald es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 40,
     "title": "La herencia",
     "author": "John Grisham",
     "cover": "LaHerencia_JohnGrisham.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9784612328071",
+    "genre": "Thriller Médico",
+    "publisher": "Plaza & Janés",
+    "synopsis": "La herencia es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 41,
     "title": "Tiempo de matar",
     "author": "John Grisham",
     "cover": "TiempoDeMatar_JohnGrisham.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9781686768364",
+    "genre": "Ficción",
+    "publisher": "Plaza & Janés",
+    "synopsis": "Tiempo de matar es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 42,
     "title": "Legítima defensa",
     "author": "John Grisham",
     "cover": "LegitimaDefensa_JohnGrisham.png",
-    "price": 61000
+    "price": 61000,
+    "isbn": "9783574897374",
+    "genre": "Suspenso",
+    "publisher": "Vintage Español",
+    "synopsis": "Legítima defensa es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 43,
     "title": "La Tapadera",
     "author": "John Grisham",
     "cover": "LaTapadera_JohnGrisham.png",
-    "price": 68000
+    "price": 68000,
+    "isbn": "9780840090620",
+    "genre": "Suspenso",
+    "publisher": "Vintage Español",
+    "synopsis": "La Tapadera es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 44,
     "title": "Una navidad diferente",
     "author": "John Grisham",
     "cover": "UnaNavidadDiferente_JohnGrisham.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9782949808424",
+    "genre": "Acción",
+    "publisher": "Plaza & Janés",
+    "synopsis": "Una navidad diferente es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 45,
     "title": "El socio",
     "author": "John Grisham",
     "cover": "ElSocio_JohnGrisham.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9785648376302",
+    "genre": "Misterio",
+    "publisher": "Penguin Random House",
+    "synopsis": "El socio es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 46,
     "title": "La confesión",
     "author": "John Grisham",
     "cover": "LaConfesion_JohnGrisham.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9780889215116",
+    "genre": "Suspenso",
+    "publisher": "Debolsillo",
+    "synopsis": "La confesión es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 47,
     "title": "El intermediario",
     "author": "John Grisham",
     "cover": "ElIntermediario_JohnGrisham.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9787253502537",
+    "genre": "Drama Legal",
+    "publisher": "HarperCollins",
+    "synopsis": "El intermediario es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 48,
     "title": "El jurado",
     "author": "John Grisham",
     "cover": "ElJurado_JohnGrisham.png",
-    "price": 65000
+    "price": 65000,
+    "isbn": "9786766717302",
+    "genre": "Ciencia Ficción",
+    "publisher": "Penguin Random House",
+    "synopsis": "El jurado es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 49,
     "title": "La apelación",
     "author": "John Grisham",
     "cover": "LaApelacion_JohnGrisham.png",
-    "price": 89000
+    "price": 89000,
+    "isbn": "9789385596748",
+    "genre": "Ficción",
+    "publisher": "Vintage Español",
+    "synopsis": "La apelación es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 50,
     "title": "El secreto de Gray Maountain",
     "author": "John Grisham",
     "cover": "ElSecretoDeGrayMaountain_JohnGrisham.png",
-    "price": 82000
+    "price": 82000,
+    "isbn": "9782619331133",
+    "genre": "Misterio",
+    "publisher": "Vintage Español",
+    "synopsis": "El secreto de Gray Maountain es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 51,
     "title": "El intercambio",
     "author": "John Grisham",
     "cover": "ElIntercambio_JohnGrisham.png",
-    "price": 77000
+    "price": 77000,
+    "isbn": "9789228119204",
+    "genre": "Thriller Médico",
+    "publisher": "Penguin Random House",
+    "synopsis": "El intercambio es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 52,
     "title": "La lista del juez",
     "author": "John Grisham",
     "cover": "LaListaDelJuez_JohnGrisham.png",
-    "price": 77000
+    "price": 77000,
+    "isbn": "9781156944074",
+    "genre": "Thriller Médico",
+    "publisher": "Penguin Random House",
+    "synopsis": "La lista del juez es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 53,
     "title": "Ajustes de cuentas",
     "author": "John Grisham",
     "cover": "AjustesDeCuentas_JohnGrisham.png",
-    "price": 82000
+    "price": 82000,
+    "isbn": "9785923097629",
+    "genre": "Thriller Médico",
+    "publisher": "Penguin Random House",
+    "synopsis": "Ajustes de cuentas es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   },
   {
     "id": 54,
     "title": "La gran estafa",
     "author": "John Grisham",
     "cover": "LaGranEstafa_JohnGrisham.png",
-    "price": 77000
+    "price": 77000,
+    "isbn": "9783276126116",
+    "genre": "Suspenso",
+    "publisher": "Penguin Random House",
+    "synopsis": "La gran estafa es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
   }
 ]

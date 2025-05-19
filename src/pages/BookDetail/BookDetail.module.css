@@ -1,25 +1,25 @@
 .bookdetail {
     display: flex;
+    flex-wrap: wrap;
     gap: 2rem;
     padding: 2rem;
     background-color: #1e272e;
-    color: white;
-    min-height: 80vh;
-    align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
+    color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
 }
 
 .bookdetail__image {
-    max-width: 200px;
+    width: 220px;
     height: auto;
-    object-fit: contain;
-    border-radius: 6px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+    object-fit: cover;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.4);
 }
 
 .bookdetail__info {
-    max-width: 500px;
+    flex: 1;
+    min-width: 250px;
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
@@ -29,47 +29,42 @@
     font-size: 1.8rem;
     font-weight: bold;
     margin: 0;
-    font-family: 'Georgia', serif;
+    font-family: 'Playfair Display', serif;
 }
 
 .bookdetail__author {
-    font-size: 1rem;
+    font-size: 1.1rem;
     font-style: italic;
     color: #2ecc71;
-    margin: 0;
 }
 
 .bookdetail__price {
     font-family: 'VT323', monospace;
-    font-size: 1.4rem;
-    letter-spacing: 1px;
-    margin: 0;
+    font-size: 1.2rem;
+    color: #f1c40f;
+    display: inline-block;
 }
 
 .bookdetail__button {
+    align-self: flex-start;
     background-color: #2ecc71;
-    border: 1px solid white;
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
     color: white;
-    font-size: 1.2rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    border: none;
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    border-radius: 999px;
     cursor: pointer;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+    transition: background-color 0.2s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 .bookdetail__button:hover {
     background-color: #27ae60;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
 }
 
 .bookdetail__notfound {
-    font-size: 1.5rem;
-    color: red;
-    text-align: center;
     padding: 2rem;
+    color: red;
+    font-weight: bold;
+    font-size: 1.2rem;
 }
