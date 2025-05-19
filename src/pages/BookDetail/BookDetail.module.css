@@ -1,0 +1,75 @@
+.bookdetail {
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+    background-color: #1e272e;
+    color: white;
+    min-height: 80vh;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.bookdetail__image {
+    max-width: 200px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 6px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.bookdetail__info {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.bookdetail__title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin: 0;
+    font-family: 'Georgia', serif;
+}
+
+.bookdetail__author {
+    font-size: 1rem;
+    font-style: italic;
+    color: #2ecc71;
+    margin: 0;
+}
+
+.bookdetail__price {
+    font-family: 'VT323', monospace;
+    font-size: 1.4rem;
+    letter-spacing: 1px;
+    margin: 0;
+}
+
+.bookdetail__button {
+    background-color: #2ecc71;
+    border: 1px solid white;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    color: white;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.bookdetail__button:hover {
+    background-color: #27ae60;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+}
+
+.bookdetail__notfound {
+    font-size: 1.5rem;
+    color: red;
+    text-align: center;
+    padding: 2rem;
+}

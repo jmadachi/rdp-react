@@ -1,0 +1,85 @@
+.layout {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    color: #8fbaad;
+}
+
+.header {
+    background-color: #2c3e50;
+    color: #4aa68b;
+    padding: 10px 20px;
+    flex-shrink: 0;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.logo__text {
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: white;
+    font-family: 'Playfair Display', serif; /* ✅ fuente elegante y exótica */
+}
+
+.logo img {
+    height: 40px; /* o el tamaño que quieras */
+}
+
+.navRight {
+    display: flex;
+    align-items: center;
+    gap: 15px; /* Espacio entre los elementos */
+}
+
+.navRight a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+}
+
+.navRight a:hover {
+    background-color: #34495e;
+    border-radius: 4px;
+}
+.searchBar input {
+    padding: 8px;
+    border-radius: 4px;
+    border: 1px solid #555;
+    background-color: #2f3640;  /* fondo oscuro */
+    color: #ecf0f1;              /* texto claro */
+    outline: none;
+}
+
+.searchBar input::placeholder {
+    color: #aaa; /* placeholder más tenue */
+}
+
+.main {
+    flex: 1 1 auto;
+    padding: 20px;
+    background-color: #1e272e; /* azul grisáceo oscuro */
+    color: #addac9; /* texto claro para contraste */
+    overflow-y: auto;
+    min-height: 0; /* importante para que flex contenedor funcione con overflow */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start; /* Remueve espacio extra arriba y abajo */
+}
+
+.footer {
+    background-color: #2c3e50;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    flex-shrink: 0;
+}

@@ -1,0 +1,35 @@
+.home {
+    text-align: center;
+    padding: 3rem;
+    background-color: #1e272e;
+    color: #ffffff;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.home__title {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.home__description {
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.home__button {
+    background-color: #ffffff;
+    color: #1e272e;
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.home__button:hover {
+    background-color: #dcdcdc;
+}

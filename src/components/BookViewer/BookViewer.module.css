@@ -1,0 +1,91 @@
+.bookviewer {
+    background-color: #2c3e50;
+    color: white;
+    border-radius: 8px;
+    padding: 0.75rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.35);
+    transition: box-shadow 0.2s ease;
+    width: 160px;           /* ✅ ancho fijo */
+    height: 300px;          /* ✅ alto fijo */
+    margin: 0;
+}
+
+.bookviewer:hover {
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.45); /* ✅ efecto 3D claro */
+}
+
+.bookviewer__cover {
+    width: 100%;
+    max-height: 180px;
+    object-fit: contain;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}
+
+.bookviewer__info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+    flex-grow: 1;
+}
+
+.bookviewer__title {
+    font-family: 'Georgia', serif;
+    font-size: 1.05rem;
+    margin: 0;
+    cursor: pointer;
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* ✅ máximo 3 líneas */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.bookviewer__author {
+    font-style: italic;
+    color: #2ecc71;
+    font-size: 0.95rem;
+    margin: 0;
+}
+
+.bookviewer__footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+}
+
+.bookviewer__price {
+    font-family: 'VT323', monospace;
+    font-size: 1rem; /* ✅ más pequeño */
+    letter-spacing: 1px;
+    margin: 0;
+}
+
+.bookviewer__button {
+    background-color: #2ecc71;
+    border: 1px solid white;           /* ✅ borde fino blanco */
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    color: white;
+    font-size: 1.2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3); /* ✅ sombra para resaltar */
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.bookviewer__button:hover {
+    background-color: #27ae60;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4); /* ✅ sombra más intensa en hover */
+}
+
+.bookviewer__button:hover {
+    background-color: #27ae60;          /* tono verde más oscuro al pasar el mouse */
+}
+

@@ -1,0 +1,70 @@
+.search {
+    padding: 5px 2rem; /* ✅ margen superior reducido */
+    background-color: #1e272e;
+    min-height: 100vh;
+    color: white;
+}
+
+.search__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 5px;
+    margin-bottom: 2rem;
+}
+
+.search__title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+}
+
+.search__input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    width: 100%;
+    max-width: 300px;
+    border-radius: 4px;
+    border: none;
+}
+
+.search__bookList {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 1rem;
+    justify-content: flex-start;
+}
+
+@media (max-width: 768px) {
+    .search__bookList {
+        justify-content: center;
+    }
+
+    .bookviewer {
+        width: 100%;
+        max-width: 90vw;
+        height: auto;
+    }
+}
+
+@media (max-width: 768px) {
+    .search__header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .search__title {
+        font-size: 1.4rem;
+        text-align: left;
+        width: 100%;
+    }
+
+    .search__input {
+        width: 100%;
+        max-width: none;
+    }
+}

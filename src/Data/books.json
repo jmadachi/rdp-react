@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "title": "Carrie",
+    "author": "Stephen King",
+    "cover": "Carrie_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 2,
+    "title": "Infección",
+    "author": "Robin Cook",
+    "cover": "Infeccion_RobinCook.png",
+    "price": 48000
+  },
+  {
+    "id": 3,
+    "title": "Los Adversarios",
+    "author": "John Grisham",
+    "cover": "LosAdversarios_JohnGrisham.png",
+    "price": 69000
+  },
+  {
+    "id": 4,
+    "title": "Clave Red Rabbit",
+    "author": "Tom Clancy",
+    "cover": "ClaveRedRabbit_TomClancy.png",
+    "price": 69000
+  },
+  {
+    "id": 5,
+    "title": "El código Da Vinci",
+    "author": "Dan Brown",
+    "cover": "ElCodigoDaVinci_DanBrown.png",
+    "price": 69000
+  },
+  {
+    "id": 6,
+    "title": "Drácula",
+    "author": "Bran Stoker",
+    "cover": "Dracula_BranStoker.png",
+    "price": 65000
+  },
+  {
+    "id": 7,
+    "title": "El visitante",
+    "author": "Stephen King",
+    "cover": "ElVisitante_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 8,
+    "title": "Todo es eventual",
+    "author": "Stephen King",
+    "cover": "TodoEsEventual_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 9,
+    "title": "Maleficio",
+    "author": "Stephen King",
+    "cover": "Maleficio_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 10,
+    "title": "Cementerio de animales",
+    "author": "Stephen King",
+    "cover": "CementerioDeAnimales_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 11,
+    "title": "Holly",
+    "author": "Stephen King",
+    "cover": "Holly_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 12,
+    "title": "El misterio de Salem's Lot",
+    "author": "Stephen King",
+    "cover": "ElMisterioDeSalemsLot_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 13,
+    "title": "La sangre manda",
+    "author": "Stephen King",
+    "cover": "LaSangreManda_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 14,
+    "title": "La niebla",
+    "author": "Stephen King",
+    "cover": "LaNiebla_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 15,
+    "title": "Apocalipsis",
+    "author": "Stephen King",
+    "cover": "Apocalipsis_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 16,
+    "title": "Posesión",
+    "author": "Stephen King",
+    "cover": "Posesion_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 17,
+    "title": "El resplandor",
+    "author": "Stephen King",
+    "cover": "ElResplandor_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 18,
+    "title": "Eso",
+    "author": "Stephen King",
+    "cover": "Eso_StephenKing.png",
+    "price": 65000
+  },
+  {
+    "id": 19,
+    "title": "Cromosoma 6",
+    "author": "Robin Cook",
+    "cover": "Cromosoma6_RobinCook.png",
+    "price": 65000
+  },
+  {
+    "id": 20,
+    "title": "Maneras de Morir",
+    "author": "Robin Cook",
+    "cover": "ManerasDeMorir_RobinCook.png",
+    "price": 110000
+  },
+  {
+    "id": 21,
+    "title": "Anestesia Letal",
+    "author": "Robin Cook",
+    "cover": "AnestesiaLetal_RobinCook.png",
+    "price": 48000
+  },
+  {
+    "id": 22,
+    "title": "Pandemia",
+    "author": "Robin Cook",
+    "cover": "Pandemia_RobinCook.png",
+    "price": 65000
+  },
+  {
+    "id": 23,
+    "title": "VirusMortal",
+    "author": "Robin Cook",
+    "cover": "VirusMortal_RobinCook.png",
+    "price": 110000
+  },
+  {
+    "id": 24,
+    "title": "Crisis",
+    "author": "Robin Cook",
+    "cover": "Crisis_RobinCook.png",
+    "price": 65000
+  },
+  {
+    "id": 25,
+    "title": "ADN",
+    "author": "Robin Cook",
+    "cover": "ADN_RobinCook.png",
+    "price": 55000
+  },
+  {
+    "id": 26,
+    "title": "Impostores",
+    "author": "Robin Cook",
+    "cover": "Impostores_RobinCook.png",
+    "price": 120000
+  },
+  {
+    "id": 27,
+    "title": "Polonio 210",
+    "author": "Robin Cook",
+    "cover": "Polonio210_RobinCook.png",
+    "price": 120000
+  },
+  {
+    "id": 28,
+    "title": "La cura",
+    "author": "Robin Cook",
+    "cover": "LaCura_RobinCook.png",
+    "price": 650000
+  },
+  {
+    "id": 29,
+    "title": "Intervención",
+    "author": "Robin Cook",
+    "cover": "Intervencion_RobinCook.png",
+    "price": 650000
+  },
+  {
+    "id": 30,
+    "title": "Vector",
+    "author": "Robin Cook",
+    "cover": "Vector_RobinCook.png",
+    "price": 650000
+  },
+  {
+    "id": 31,
+    "title": "Cuerpo extraño",
+    "author": "Robin Cook",
+    "cover": "CuerpoExtranio_RobinCook.png",
+    "price": 650000
+  },
+  {
+    "id": 32,
+    "title": "Contagio",
+    "author": "Robin Cook",
+    "cover": "Contagio_RobinCook.png",
+    "price": 550000
+  },
+  {
+    "id": 33,
+    "title": "Cerebro",
+    "author": "Robin Cook",
+    "cover": "Cerebro_RobinCook.png",
+    "price": 120000
+  },
+  {
+    "id": 34,
+    "title": "Los guardianes",
+    "author": "John Grisham",
+    "cover": "LosGuardianes_JohnGrisham.png",
+    "price": 77000
+  },
+  {
+    "id": 35,
+    "title": "El sueño de Sooley",
+    "author": "John Grisham",
+    "cover": "ElSuenioDeSooley_JohnGrisham.png",
+    "price": 82000
+  },
+  {
+    "id": 36,
+    "title": "Los chicos de Biloxi",
+    "author": "John Grisham",
+    "cover": "LosChicosDeBiloxi_JohnGrisham.png",
+    "price": 79000
+  },
+  {
+    "id": 37,
+    "title": "Tiempo de perdón",
+    "author": "John Grisham",
+    "cover": "TiempoDePerdon_JohnGrisham.png",
+    "price": 89000
+  },
+  {
+    "id": 38,
+    "title": "El manuscrito",
+    "author": "John Grisham",
+    "cover": "ElManuscrito_JohnGrisham.png",
+    "price": 72000
+  },
+  {
+    "id": 39,
+    "title": "El caso Fitzgerald",
+    "author": "John Grisham",
+    "cover": "ElCasoFitzgerald_JohnGrisham.png",
+    "price": 69000
+  },
+  {
+    "id": 40,
+    "title": "La herencia",
+    "author": "John Grisham",
+    "cover": "LaHerencia_JohnGrisham.png",
+    "price": 65000
+  },
+  {
+    "id": 41,
+    "title": "Tiempo de matar",
+    "author": "John Grisham",
+    "cover": "TiempoDeMatar_JohnGrisham.png",
+    "price": 65000
+  },
+  {
+    "id": 42,
+    "title": "Legítima defensa",
+    "author": "John Grisham",
+    "cover": "LegitimaDefensa_JohnGrisham.png",
+    "price": 61000
+  },
+  {
+    "id": 43,
+    "title": "La Tapadera",
+    "author": "John Grisham",
+    "cover": "LaTapadera_JohnGrisham.png",
+    "price": 68000
+  },
+  {
+    "id": 44,
+    "title": "Una navidad diferente",
+    "author": "John Grisham",
+    "cover": "UnaNavidadDiferente_JohnGrisham.png",
+    "price": 65000
+  },
+  {
+    "id": 45,
+    "title": "El socio",
+    "author": "John Grisham",
+    "cover": "ElSocio_JohnGrisham.png",
+    "price": 65000
+  },
+  {
+    "id": 46,
+    "title": "La confesión",
+    "author": "John Grisham",
+    "cover": "LaConfesion_JohnGrisham.png",
+    "price": 65000
+  },
+  {
+    "id": 47,
+    "title": "El intermediario",
+    "author": "John Grisham",
+    "cover": "ElIntermediario_JohnGrisham.png",
+    "price": 65000
+  },
+  {
+    "id": 48,
+    "title": "El jurado",
+    "author": "John Grisham",
+    "cover": "ElJurado_JohnGrisham.png",
+    "price": 65000
+  },
+  {
+    "id": 49,
+    "title": "La apelación",
+    "author": "John Grisham",
+    "cover": "LaApelacion_JohnGrisham.png",
+    "price": 89000
+  },
+  {
+    "id": 50,
+    "title": "El secreto de Gray Maountain",
+    "author": "John Grisham",
+    "cover": "ElSecretoDeGrayMaountain_JohnGrisham.png",
+    "price": 82000
+  },
+  {
+    "id": 51,
+    "title": "El intercambio",
+    "author": "John Grisham",
+    "cover": "ElIntercambio_JohnGrisham.png",
+    "price": 77000
+  },
+  {
+    "id": 52,
+    "title": "La lista del juez",
+    "author": "John Grisham",
+    "cover": "LaListaDelJuez_JohnGrisham.png",
+    "price": 77000
+  },
+  {
+    "id": 53,
+    "title": "Ajustes de cuentas",
+    "author": "John Grisham",
+    "cover": "AjustesDeCuentas_JohnGrisham.png",
+    "price": 82000
+  },
+  {
+    "id": 54,
+    "title": "La gran estafa",
+    "author": "John Grisham",
+    "cover": "LaGranEstafa_JohnGrisham.png",
+    "price": 77000
+  }
+]
