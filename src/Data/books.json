@@ -335,7 +335,7 @@
     "author": "Robin Cook",
     "cover": "CuerpoExtranio_RobinCook.png",
     "price": 650000,
-    "isbn": 9786249025566,
+    "isbn": "9786249025566",
     "genre": "Drama Legal",
     "publisher": "Penguin Random House",
     "synopsis": "Cuerpo extraño es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
@@ -401,7 +401,7 @@
     "author": "John Grisham",
     "cover": "TiempoDePerdon_JohnGrisham.png",
     "price": 89000,
-    "isbn": 9781552070428,
+    "isbn": "9781552070428",
     "genre": "Suspenso",
     "publisher": "Plaza & Janés",
     "synopsis": "Tiempo de perdón es una historia apasionante que explora los límites del suspense, la emoción y la intriga. A través de sus páginas, el lector se adentra en un mundo de misterios, giros inesperados y personajes complejos que no dejarán indiferente a nadie."
